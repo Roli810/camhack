@@ -1,5 +1,3 @@
-Vibecoded trash - but at least it works.
-
 RTSP Camera Discovery & Audit Tool
 A two-stage pipeline for RTSP stream security auditing. Built in a weekend as a learning project.
 
