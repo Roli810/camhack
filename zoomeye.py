@@ -7,7 +7,7 @@ from pathlib import Path
 from urllib.parse import quote
 
 COOKIES_FILE = "cookies.json"
-QUERY = 'port="554" && city="Cluj-Napoca" && after="2026-01-01" && before="2027-01-01"'
+QUERY = 'port="554" && city="Uhhhh uhhmmmm uhmmm" && after="2026-01-01" && before="2027-01-01"'
 OUTPUT_FILE = "ips.txt"
 TARGET_IPS = 250
 PAGE_SIZE = 10
